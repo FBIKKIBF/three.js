@@ -62,8 +62,5 @@
     "rollup-watch": "^4.3.1",
     "serve": "6.5.8",
     "uglify-js": "^3.3.28"
-  },
-  "dependencies": {
-    "three-fbx-loader": "^1.0.3"
   }
 }
